@@ -9,7 +9,7 @@ if (!isset($_SESSION['role']) || ($_SESSION['role'] !== 'responsable' && $_SESSI
 }
 
 $pseudo_responsable = $_SESSION['pseudo'];
-$role = $_SESSION['role'];
+$role = $_SESSION / jai modifié ici cetait role 
 
 ?>
 <!DOCTYPE html>
