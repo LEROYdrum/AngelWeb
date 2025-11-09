@@ -14,7 +14,7 @@ session_start();
     
     <style>
         /* ==================================== */
-        /* CSS ROYAL SCINTILLANT PROFESSIONNEL  (Slide In, Sans Émojis) */
+        /* CSS ROYAL SCINTILLANT PROFESSIONNEL v (Slide In, Sans Émojis) */
         /* ==================================== */
         
         :root {
